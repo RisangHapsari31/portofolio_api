@@ -2,52 +2,42 @@
   "portofolio" : [
  {
   "id": 1,
-  "name": "My Portofolio 1",
+  "name": "Icang",
   "description": "Lorem Ipsum"
  },
  {
   "id": 2,
-  "name": "My Portofolio 2",
+  "name": "Icang",
   "description": "Lorem Ipsum"
  },
  {
   "id": 3,
-  "name": "My Portofolio 3",
+  "name": "Icang",
   "description": "Lorem Ipsum"
  },
  {
   "id": 4,
-  "name": "My Portofolio 4",
+  "name": "Icang",
   "description": "Lorem Ipsum"
  },
  {
   "id": 5,
-  "name": "My Portofolio 5",
+  "name": "Icang",
   "description": "Lorem Ipsum"
  },
  {
   "id": 6,
-  "name": "My Portofolio 6",
+  "name": "Icang",
   "description": "Lorem Ipsum"
  },
  {
   "id": 7,
-  "name": "My Portofolio 7",
+  "name": "Icang",
   "description": "Lorem Ipsum"
  },
  {
   "id": 8,
-  "name": "My Portofolio 8",
-  "description": "Lorem Ipsum"
- },
- {
-  "id": 9,
-  "name": "My Portofolio 9",
-  "description": "Lorem Ipsum"
- },
- {
-  "id": 10,
-  "name": "My Portofolio 10",
+  "name": "Icang",
   "description": "Lorem Ipsum"
  }
  ]}
